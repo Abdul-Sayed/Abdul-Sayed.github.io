@@ -1,6 +1,6 @@
 # Abdul-Sayed.github.io
 
-## Hi there! Welcome to _my_ Resume-Portfolio
+## Hi there! Welcome to my _Resume-Portfolio_
 
 ### This is a single page responsive website using the CSS framework [W3.CSS](https://www.w3schools.com/w3css/)
 
